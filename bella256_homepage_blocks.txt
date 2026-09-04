@@ -23,7 +23,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline"} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#reimbursement">Insurance Reimbursement</a></div>
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button" href="#insurance">Insurance Guidance</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button -->
@@ -194,11 +194,11 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":3} -->
-<h3 class="wp-block-heading has-text-align-center">Reimbursement Help</h3>
+<h3 class="wp-block-heading has-text-align-center">Insurance Guidance</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Superbill with codes included — submit to your plan for reimbursement</p>
+<p class="has-text-align-center">Not sure what your plan covers? We'll walk you through your options</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -223,8 +223,8 @@
 <div style="height:56px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:heading {"textAlign":"center","anchor":"reimbursement"} -->
-<h2 class="wp-block-heading has-text-align-center" id="reimbursement">How Reimbursement Works</h2>
+<!-- wp:heading {"textAlign":"center","anchor":"insurance"} -->
+<h2 class="wp-block-heading has-text-align-center" id="insurance">How Insurance Guidance Works</h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns -->
@@ -244,23 +244,23 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Every order includes an itemized superbill with our NPI and the billing codes your plan needs.</p>
+<p class="has-text-align-center">Every order includes an itemized superbill with the details and billing codes insurance plans ask for.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"textAlign":"center","level":3} -->
-<h3 class="wp-block-heading has-text-align-center">3. Submit &amp; Get Reimbursed</h3>
+<h3 class="wp-block-heading has-text-align-center">3. We Guide You</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center">Send it to your insurance plan for out-of-network reimbursement. Many commercial plans cover mastectomy products.</p>
+<p class="has-text-align-center">We'll help you understand your plan's options and what to ask — so you can decide what's right for you.</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"small"} -->
-<p class="has-text-align-center has-small-font-size">Reimbursement depends on your plan — Medicare and some plans may not reimburse. Questions? Ask us before you buy.</p>
+<p class="has-text-align-center has-small-font-size">We are not in-network with any insurance plan, and Medicare cannot be billed or reimbursed. Whether a plan pays anything is always the plan's decision. Questions? Ask us before you buy.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"56px"} -->
