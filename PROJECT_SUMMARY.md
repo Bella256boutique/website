@@ -34,6 +34,11 @@ Lisa Lyles — Certified Mastectomy Fitter, Madison, GA. Bella256 Boutique LLC s
 - Homepage + Mastectomy Bras shop page HTML mockups (approved branding)
 - Superbill template (docx): supplier/patient/prescriber blocks, ICD-10 Z90.11-.13, HCPCS reference, page-2 patient submission guide
 
+## Insurance & credentialing (Nov 2026)
+- Planning payer enrollment: Medicare DMEPOS, Georgia Medicaid (+ CMOs), commercial payers, Medicare Advantage.
+- Google Workspace BAA is in place, so PHI is OK in the live Google Sheet. No clearinghouse yet.
+- Blank tracker template + generator script live in `insurance-tracker/` (see its README). Never commit filled-in copies.
+
 ## Build roadmap (current position: step 1 done except wizard)
 1. Install WooCommerce ✅ (wizard pending: Madison GA address, physical products, skip all extras, payments later)
 2. Store settings — address, GA sales tax, currency

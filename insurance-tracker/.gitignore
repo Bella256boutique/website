@@ -1,0 +1,6 @@
+# Only the blank template belongs in git; block filled-in copies and exports.
+*.xlsx
+*.csv
+*.pdf
+!Bella256_Insurance_Credentialing_Tracker.xlsx
+__pycache__/
